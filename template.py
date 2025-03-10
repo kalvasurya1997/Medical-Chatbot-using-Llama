@@ -12,7 +12,7 @@ list_of_files = [
     "app.py",
     "research/trials.ipynb",
     "store_index.py",
-    "static",
+    "static/style.css",
     "templates/chat.html",
 ]
 
